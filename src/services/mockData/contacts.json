@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "name": "Sarah Mitchell",
+    "email": "sarah.mitchell@techcorp.com",
+    "phone": "+1 (555) 123-4567",
+    "company": "TechCorp Industries",
+    "tags": ["enterprise", "decision-maker"],
+    "createdAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "2",
+    "name": "David Chen",
+    "email": "d.chen@innovatesoft.com",
+    "phone": "+1 (555) 234-5678",
+    "company": "InnovateSoft",
+    "tags": ["startup", "tech"],
+    "createdAt": "2024-01-18T14:20:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Emily Rodriguez",
+    "email": "emily.r@globalventures.com",
+    "phone": "+1 (555) 345-6789",
+    "company": "Global Ventures",
+    "tags": ["investor", "finance"],
+    "createdAt": "2024-01-22T09:15:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Michael Thompson",
+    "email": "mthompson@datacorp.com",
+    "phone": "+1 (555) 456-7890",
+    "company": "DataCorp Solutions",
+    "tags": ["enterprise", "analytics"],
+    "createdAt": "2024-01-25T16:45:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Jennifer Walsh",
+    "email": "jennifer.walsh@cloudtech.com",
+    "phone": "+1 (555) 567-8901",
+    "company": "CloudTech Systems",
+    "tags": ["cloud", "infrastructure"],
+    "createdAt": "2024-01-28T11:30:00Z"
+  },
+  {
+    "id": "6",
+    "name": "Robert Kim",
+    "email": "r.kim@nexusdigital.com",
+    "phone": "+1 (555) 678-9012",
+    "company": "Nexus Digital",
+    "tags": ["marketing", "digital"],
+    "createdAt": "2024-02-01T13:20:00Z"
+  },
+  {
+    "id": "7",
+    "name": "Lisa Anderson",
+    "email": "lisa.anderson@blueprintcorp.com",
+    "phone": "+1 (555) 789-0123",
+    "company": "Blueprint Corp",
+    "tags": ["consulting", "strategy"],
+    "createdAt": "2024-02-05T08:50:00Z"
+  },
+  {
+    "id": "8",
+    "name": "James Wilson",
+    "email": "j.wilson@futuretech.com",
+    "phone": "+1 (555) 890-1234",
+    "company": "FutureTech Labs",
+    "tags": ["research", "innovation"],
+    "createdAt": "2024-02-08T15:10:00Z"
+  },
+  {
+    "id": "9",
+    "name": "Amanda Foster",
+    "email": "a.foster@scaleworks.com",
+    "phone": "+1 (555) 901-2345",
+    "company": "ScaleWorks",
+    "tags": ["scaling", "operations"],
+    "createdAt": "2024-02-12T12:40:00Z"
+  },
+  {
+    "id": "10",
+    "name": "Kevin Martinez",
+    "email": "kevin.martinez@agileflow.com",
+    "phone": "+1 (555) 012-3456",
+    "company": "AgileFlow Systems",
+    "tags": ["agile", "development"],
+    "createdAt": "2024-02-15T10:25:00Z"
+  },
+  {
+    "id": "11",
+    "name": "Rachel Green",
+    "email": "rachel.green@smartdata.com",
+    "phone": "+1 (555) 123-4560",
+    "company": "SmartData Analytics",
+    "tags": ["data", "ai"],
+    "createdAt": "2024-02-18T14:55:00Z"
+  },
+  {
+    "id": "12",
+    "name": "Daniel Brown",
+    "email": "d.brown@quantum-corp.com",
+    "phone": "+1 (555) 234-5601",
+    "company": "Quantum Corp",
+    "tags": ["quantum", "computing"],
+    "createdAt": "2024-02-22T09:35:00Z"
+  }
+]

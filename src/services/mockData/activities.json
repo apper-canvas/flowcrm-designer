@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "type": "call",
+    "contactId": "1",
+    "dealId": "1",
+    "notes": "Discussed enterprise requirements and pricing options. Client is interested in the premium package.",
+    "timestamp": "2024-02-28T10:30:00Z"
+  },
+  {
+    "id": "2",
+    "type": "email",
+    "contactId": "5",
+    "dealId": "2",
+    "notes": "Sent detailed proposal for cloud migration timeline and costs. Awaiting feedback.",
+    "timestamp": "2024-02-27T14:15:00Z"
+  },
+  {
+    "id": "3",
+    "type": "meeting",
+    "contactId": "4",
+    "dealId": "3",
+    "notes": "Initial discovery meeting to understand analytics needs and current infrastructure.",
+    "timestamp": "2024-02-26T09:00:00Z"
+  },
+  {
+    "id": "4",
+    "type": "call",
+    "contactId": "6",
+    "dealId": "4",
+    "notes": "Follow-up call to finalize contract details. Deal closed successfully!",
+    "timestamp": "2024-02-25T16:45:00Z"
+  },
+  {
+    "id": "5",
+    "type": "email",
+    "contactId": "7",
+    "dealId": "5",
+    "notes": "Shared case studies and testimonials from similar consulting engagements.",
+    "timestamp": "2024-02-24T11:20:00Z"
+  },
+  {
+    "id": "6",
+    "type": "meeting",
+    "contactId": "8",
+    "dealId": "6",
+    "notes": "Exploratory meeting to discuss potential research collaboration opportunities.",
+    "timestamp": "2024-02-23T13:30:00Z"
+  },
+  {
+    "id": "7",
+    "type": "call",
+    "contactId": "9",
+    "dealId": "7",
+    "notes": "Cold call to introduce our operations optimization services. Good initial interest.",
+    "timestamp": "2024-02-22T15:10:00Z"
+  },
+  {
+    "id": "8",
+    "type": "email",
+    "contactId": "10",
+    "dealId": "8",
+    "notes": "Contract signed and executed. License keys will be delivered within 48 hours.",
+    "timestamp": "2024-02-21T12:00:00Z"
+  },
+  {
+    "id": "9",
+    "type": "meeting",
+    "contactId": "11",
+    "dealId": "9",
+    "notes": "Technical deep-dive meeting to discuss AI implementation roadmap and requirements.",
+    "timestamp": "2024-02-20T10:45:00Z"
+  },
+  {
+    "id": "10",
+    "type": "call",
+    "contactId": "12",
+    "dealId": "10",
+    "notes": "Initial outreach call. Quantum Corp is evaluating multiple vendors for research partnership.",
+    "timestamp": "2024-02-19T14:30:00Z"
+  },
+  {
+    "id": "11",
+    "type": "email",
+    "contactId": "3",
+    "dealId": "11",
+    "notes": "Sent investment deck and financial projections. Investor requested additional market analysis.",
+    "timestamp": "2024-02-18T09:20:00Z"
+  },
+  {
+    "id": "12",
+    "type": "meeting",
+    "contactId": "2",
+    "dealId": "12",
+    "notes": "Final presentation meeting. Unfortunately, client decided to go with a competitor.",
+    "timestamp": "2024-02-17T11:15:00Z"
+  },
+  {
+    "id": "13",
+    "type": "call",
+    "contactId": "1",
+    "dealId": null,
+    "notes": "Check-in call to maintain relationship and discuss future opportunities.",
+    "timestamp": "2024-02-16T16:00:00Z"
+  },
+  {
+    "id": "14",
+    "type": "email",
+    "contactId": "5",
+    "dealId": null,
+    "notes": "Shared industry report on cloud adoption trends. Building thought leadership.",
+    "timestamp": "2024-02-15T08:45:00Z"
+  },
+  {
+    "id": "15",
+    "type": "meeting",
+    "contactId": "4",
+    "dealId": null,
+    "notes": "Networking event encounter. Exchanged business cards and scheduled follow-up.",
+    "timestamp": "2024-02-14T18:30:00Z"
+  }
+]
